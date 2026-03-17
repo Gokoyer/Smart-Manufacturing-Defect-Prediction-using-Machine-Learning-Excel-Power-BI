@@ -1,0 +1,2 @@
+# Smart-Manufacturing-Defect-Prediction-using-Machine-Learning-Excel-Power-BI
+End-to-end manufacturing analytics project using Machine Learning, Excel, and Power BI to predict product defects. Includes EDA, feature engineering, and model evaluation. Identifies key factors like vibration and temperature impacting quality, enabling predictive maintenance and data-driven decision-making in smart manufacturing.
